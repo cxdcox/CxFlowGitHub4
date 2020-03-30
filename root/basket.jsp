@@ -48,6 +48,7 @@ function decQuantity (prodid) {
 	}
 	
 	if (basketId != null) {
+        // ...new comment...
 		// Dont need to do anything else
 			
 		// Well, apart from checking to see if they've accessed someone elses basket ;)
