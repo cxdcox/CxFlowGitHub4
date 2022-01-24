@@ -1,5 +1,6 @@
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
+SailPoint-Test3-DRC
 SailPoint-Test2-DRC
 SailPoint-Test1-DRC
 
