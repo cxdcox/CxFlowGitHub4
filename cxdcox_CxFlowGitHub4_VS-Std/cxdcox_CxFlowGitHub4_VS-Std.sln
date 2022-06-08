@@ -1,0 +1,178 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BCA7F95-CCF4-418A-969F-2FB20EFAE16B}"
+	ProjectSection(SolutionItems) = preProject
+		..\alertsFile.xml = ..\alertsFile.xml
+		..\allAlertsFile.xml = ..\allAlertsFile.xml
+		..\build.xml = ..\build.xml
+		..\Dockerfile = ..\Dockerfile
+		..\local.properties = ..\local.properties
+		..\README.md = ..\README.md
+		..\sfdx-project.json = ..\sfdx-project.json
+		..\zap-build.xml = ..\zap-build.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{C9956BBC-563D-4C4C-BC7B-595B4F7CABB3}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\about.jsp = ..\root\about.jsp
+		..\root\admin.jsp = ..\root\admin.jsp
+		..\root\advanced.jsp = ..\root\advanced.jsp
+		..\root\basket.jsp = ..\root\basket.jsp
+		..\root\contact.jsp = ..\root\contact.jsp
+		..\root\dbconnection.jspf = ..\root\dbconnection.jspf
+		..\root\footer.jsp = ..\root\footer.jsp
+		..\root\header.jsp = ..\root\header.jsp
+		..\root\home.jsp = ..\root\home.jsp
+		..\root\init.jsp = ..\root\init.jsp
+		..\root\login.jsp = ..\root\login.jsp
+		..\root\logout.jsp = ..\root\logout.jsp
+		..\root\password.jsp = ..\root\password.jsp
+		..\root\product.jsp = ..\root\product.jsp
+		..\root\register.jsp = ..\root\register.jsp
+		..\root\score.jsp = ..\root\score.jsp
+		..\root\search.jsp = ..\root\search.jsp
+		..\root\style.css = ..\root\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{773A34F1-CC4D-428C-B62E-049910FD096D}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\css\jquery-ui-1.85.css = ..\root\css\jquery-ui-1.85.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{B2CF9495-6E9A-4399-93FC-106435065249}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\images\129.png = ..\root\images\129.png
+		..\root\images\130.png = ..\root\images\130.png
+		..\root\images\151.png = ..\root\images\151.png
+		..\root\images\152.png = ..\root\images\152.png
+		..\root\images\153.png = ..\root\images\153.png
+		..\root\images\154.png = ..\root\images\154.png
+		..\root\images\155.png = ..\root\images\155.png
+		..\root\images\156.png = ..\root\images\156.png
+		..\root\images\157.png = ..\root\images\157.png
+		..\root\images\158.png = ..\root\images\158.png
+		..\root\images\159.png = ..\root\images\159.png
+		..\root\images\160.png = ..\root\images\160.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5067AFB3-26ED-4191-A40A-72E6873F2067}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\js\advanced.js = ..\root\js\advanced.js
+		..\root\js\advanced2.js = ..\root\js\advanced2.js
+		..\root\js\encryption.js = ..\root\js\encryption.js
+		..\root\js\jquery-1.6.4.min.js = ..\root\js\jquery-1.6.4.min.js
+		..\root\js\jquery-ui-1.85.js = ..\root\js\jquery-ui-1.85.js
+		..\root\js\util.js = ..\root\js\util.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB-INF", "WEB-INF", "{7F38937B-2A6C-479D-B383-7889C677E9CC}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\WEB-INF\web.xml = ..\root\WEB-INF\web.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{59C52B4C-4CA6-4ED4-BDE2-C81ECDE79582}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\css\images\ui-bg_diagonals-thick_18_b81900_40x40.png = ..\root\css\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+		..\root\css\images\ui-bg_diagonals-thick_20_666666_40x40.png = ..\root\css\images\ui-bg_diagonals-thick_20_666666_40x40.png
+		..\root\css\images\ui-bg_flat_10_000000_40x100.png = ..\root\css\images\ui-bg_flat_10_000000_40x100.png
+		..\root\css\images\ui-bg_glass_65_ffffff_1x400.png = ..\root\css\images\ui-bg_glass_65_ffffff_1x400.png
+		..\root\css\images\ui-bg_glass_100_f6f6f6_1x400.png = ..\root\css\images\ui-bg_glass_100_f6f6f6_1x400.png
+		..\root\css\images\ui-bg_glass_100_fdf5ce_1x400.png = ..\root\css\images\ui-bg_glass_100_fdf5ce_1x400.png
+		..\root\css\images\ui-bg_gloss-wave_35_f6a828_500x100.png = ..\root\css\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+		..\root\css\images\ui-bg_highlight-soft_75_ffe45c_1x100.png = ..\root\css\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+		..\root\css\images\ui-bg_highlight-soft_100_eeeeee_1x100.png = ..\root\css\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+		..\root\css\images\ui-icons_228ef1_256x240.png = ..\root\css\images\ui-icons_228ef1_256x240.png
+		..\root\css\images\ui-icons_222222_256x240.png = ..\root\css\images\ui-icons_222222_256x240.png
+		..\root\css\images\ui-icons_ef8c08_256x240.png = ..\root\css\images\ui-icons_ef8c08_256x240.png
+		..\root\css\images\ui-icons_ffd27a_256x240.png = ..\root\css\images\ui-icons_ffd27a_256x240.png
+		..\root\css\images\ui-icons_ffffff_256x240.png = ..\root\css\images\ui-icons_ffffff_256x240.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{52257AB5-0E89-4211-A94B-85A26C86F7FA}"
+	ProjectSection(SolutionItems) = preProject
+		..\root\WEB-INF\lib\commons-lang3-3.1.jar = ..\root\WEB-INF\lib\commons-lang3-3.1.jar
+		..\root\WEB-INF\lib\hsqldb.jar = ..\root\WEB-INF\lib\hsqldb.jar
+		..\root\WEB-INF\lib\servlet-api.jar = ..\root\WEB-INF\lib\servlet-api.jar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{0FC500CB-A322-4279-91BA-060EB73C5DF1}"
+	ProjectSection(SolutionItems) = preProject
+		..\lib\ant.jar = ..\lib\ant.jar
+		..\lib\commons-lang-2.6.jar = ..\lib\commons-lang-2.6.jar
+		..\lib\selenium-server-standalone-2.43.0.jar = ..\lib\selenium-server-standalone-2.43.0.jar
+		..\lib\zap-api-v2-9.jar = ..\lib\zap-api-v2-9.jar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{EE3A2CB5-DE6E-41C8-ADEB-2F4DA6FEBF66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB-INF", "WEB-INF", "{CC9D75AE-F3B8-44D7-A8E7-596249FC9E3D}"
+	ProjectSection(SolutionItems) = preProject
+		..\build\WEB-INF\web.xml = ..\build\WEB-INF\web.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{0E27913D-7B98-4852-9B02-27D2BC0FC54E}"
+	ProjectSection(SolutionItems) = preProject
+		..\build\WEB-INF\lib\hsqldb.jar = ..\build\WEB-INF\lib\hsqldb.jar
+		..\build\WEB-INF\lib\servlet-api.jar = ..\build\WEB-INF\lib\servlet-api.jar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{32059A16-E78B-4B85-ABCB-1F2D1279016A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "com", "com", "{3EDB1DC4-010F-49E9-8660-DD791F52A35C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "thebodgeitstore", "thebodgeitstore", "{052786B3-B37C-4A14-B843-FC38DD0906BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "search", "search", "{DDE84AF7-6BAE-4EA8-8E5F-3A52113107E8}"
+	ProjectSection(SolutionItems) = preProject
+		..\src\com\thebodgeitstore\search\AdvancedSearch.java = ..\src\com\thebodgeitstore\search\AdvancedSearch.java
+		..\src\com\thebodgeitstore\search\SearchResult.java = ..\src\com\thebodgeitstore\search\SearchResult.java
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "selenium", "selenium", "{56C3FBC4-76FF-4165-B5B5-26755CDCE303}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "util", "util", "{1A984E49-56D6-4E6C-B410-2FF8EA57F6BE}"
+	ProjectSection(SolutionItems) = preProject
+		..\src\com\thebodgeitstore\util\AES.java = ..\src\com\thebodgeitstore\util\AES.java
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3A969BB8-6703-4A98-9708-4F08FFD69C05}"
+	ProjectSection(SolutionItems) = preProject
+		..\src\com\thebodgeitstore\selenium\tests\FunctionalTest.java = ..\src\com\thebodgeitstore\selenium\tests\FunctionalTest.java
+		..\src\com\thebodgeitstore\selenium\tests\FunctionalZAP.java = ..\src\com\thebodgeitstore\selenium\tests\FunctionalZAP.java
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1A99B8-E631-471A-8769-EA0C45D2D610}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9956BBC-563D-4C4C-BC7B-595B4F7CABB3} = {0BCA7F95-CCF4-418A-969F-2FB20EFAE16B}
+		{773A34F1-CC4D-428C-B62E-049910FD096D} = {C9956BBC-563D-4C4C-BC7B-595B4F7CABB3}
+		{B2CF9495-6E9A-4399-93FC-106435065249} = {C9956BBC-563D-4C4C-BC7B-595B4F7CABB3}
+		{5067AFB3-26ED-4191-A40A-72E6873F2067} = {C9956BBC-563D-4C4C-BC7B-595B4F7CABB3}
+		{7F38937B-2A6C-479D-B383-7889C677E9CC} = {C9956BBC-563D-4C4C-BC7B-595B4F7CABB3}
+		{59C52B4C-4CA6-4ED4-BDE2-C81ECDE79582} = {773A34F1-CC4D-428C-B62E-049910FD096D}
+		{52257AB5-0E89-4211-A94B-85A26C86F7FA} = {7F38937B-2A6C-479D-B383-7889C677E9CC}
+		{0FC500CB-A322-4279-91BA-060EB73C5DF1} = {0BCA7F95-CCF4-418A-969F-2FB20EFAE16B}
+		{EE3A2CB5-DE6E-41C8-ADEB-2F4DA6FEBF66} = {0BCA7F95-CCF4-418A-969F-2FB20EFAE16B}
+		{CC9D75AE-F3B8-44D7-A8E7-596249FC9E3D} = {EE3A2CB5-DE6E-41C8-ADEB-2F4DA6FEBF66}
+		{0E27913D-7B98-4852-9B02-27D2BC0FC54E} = {CC9D75AE-F3B8-44D7-A8E7-596249FC9E3D}
+		{32059A16-E78B-4B85-ABCB-1F2D1279016A} = {0BCA7F95-CCF4-418A-969F-2FB20EFAE16B}
+		{3EDB1DC4-010F-49E9-8660-DD791F52A35C} = {32059A16-E78B-4B85-ABCB-1F2D1279016A}
+		{052786B3-B37C-4A14-B843-FC38DD0906BE} = {3EDB1DC4-010F-49E9-8660-DD791F52A35C}
+		{DDE84AF7-6BAE-4EA8-8E5F-3A52113107E8} = {052786B3-B37C-4A14-B843-FC38DD0906BE}
+		{56C3FBC4-76FF-4165-B5B5-26755CDCE303} = {052786B3-B37C-4A14-B843-FC38DD0906BE}
+		{1A984E49-56D6-4E6C-B410-2FF8EA57F6BE} = {052786B3-B37C-4A14-B843-FC38DD0906BE}
+		{3A969BB8-6703-4A98-9708-4F08FFD69C05} = {56C3FBC4-76FF-4165-B5B5-26755CDCE303}
+	EndGlobalSection
+EndGlobal
